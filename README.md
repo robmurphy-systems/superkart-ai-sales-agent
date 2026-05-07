@@ -3,7 +3,7 @@
 
 ---
 
-### AI-powered retail sales forecasting and decision-support platform combining machine learning predictions with an integrated AI sales strategy assistant.
+##### AI-powered retail sales forecasting and decision-support platform combining machine learning predictions with an integrated AI sales strategy assistant.
 ---
 
 Retail forecasting is a complex coordination problem involving:
