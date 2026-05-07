@@ -7,7 +7,7 @@ AI-powered retail sales forecasting and decision-support platform combining mach
 
 ## Live Demo
 
-[[Launch Application](YOUR_HUGGINGFACE_LINK)](https://huggingface.co/spaces/bobasami/superkart-frontend)
+https://huggingface.co/spaces/bobasami/superkart-frontend
 
 ---
 
