@@ -14,6 +14,9 @@ This project combines predictive analytics, AI-assisted workflows, and coordinat
 ---
 ## Application Preview
 
+### Sales Forecast Input Workflow
+![Sales Forecast UI](images/prediction-ui.png)
+
 <img width="568" height="855" alt="image" src="https://github.com/user-attachments/assets/831c774c-04e7-4e62-ad94-6e125fb2b187" />
 
 ###### with integrated Sales Strategy Agent - Using OpenAI 
