@@ -1,5 +1,13 @@
 ---
-#### SuperKart AI Sales Forecasting Platform
+# SuperKart AI Sales Forecasting Platform
+
+AI-powered retail sales forecasting and decision-support platform combining machine learning predictions with an integrated AI sales strategy assistant.
+
+---
+
+## Live Demo
+
+[[Launch Application](YOUR_HUGGINGFACE_LINK)](https://huggingface.co/spaces/bobasami/superkart-frontend)
 
 ---
 
