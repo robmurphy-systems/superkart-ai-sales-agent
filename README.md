@@ -11,9 +11,6 @@ https://huggingface.co/spaces/bobasami/superkart-frontend
 
 ---
 
-##### AI-powered retail sales forecasting and decision-support platform combining machine learning predictions with an integrated AI sales strategy assistant.
----
-
 Retail forecasting is a complex coordination problem involving:
 
 - inventory planning
