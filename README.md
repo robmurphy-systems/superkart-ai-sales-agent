@@ -12,6 +12,20 @@ This project combines predictive analytics, AI-assisted workflows, and coordinat
 [Launch SuperKart Forecasting Platform](https://huggingface.co/spaces/bobasami/superkart-frontend)
 
 ---
+## Application Preview
+
+<img width="568" height="855" alt="image" src="https://github.com/user-attachments/assets/831c774c-04e7-4e62-ad94-6e125fb2b187" />
+
+###### with integrated Sales Strategy Assistant
+
+
+<img width="572" height="226" alt="image" src="https://github.com/user-attachments/assets/961c17a3-7321-4ad7-9e57-f5e7b7e37a08" />
+
+
+
+
+
+
 
 Retail forecasting is a complex coordination problem involving:
 
