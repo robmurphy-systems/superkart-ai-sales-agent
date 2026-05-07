@@ -28,6 +28,8 @@ This project combines predictive analytics, AI-assisted workflows, and coordinat
 
 The AI assistant layer was added to transform raw prediction outputs into actionable business guidance and operational decision support.
 
+---
+
 Retail forecasting is a complex coordination problem involving:
 
 - inventory planning
