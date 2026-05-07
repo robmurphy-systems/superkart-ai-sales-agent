@@ -19,7 +19,7 @@ This project combines predictive analytics, AI-assisted workflows, and coordinat
 
 <img width="568" height="855" alt="image" src="https://github.com/user-attachments/assets/831c774c-04e7-4e62-ad94-6e125fb2b187" />
 
-###### with integrated Sales Strategy Agent - Using OpenAI 
+###### Integrated AI-powered sales strategy assistant for interactive business guidance
 
 ### AI Strategy Assistant Integration
 ![AI Assistant](images/assistant-ui.png)
