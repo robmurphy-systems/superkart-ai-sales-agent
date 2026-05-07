@@ -19,7 +19,8 @@ This project combines predictive analytics, AI-assisted workflows, and coordinat
 ###### with integrated Sales Strategy Agent - Using OpenAI 
 
 
-<img width="572" height="226" alt="image" src="https://github.com/user-attachments/assets/961c17a3-7321-4ad7-9e57-f5e7b7e37a08" />
+<img width="546" height="361" alt="image" src="https://github.com/user-attachments/assets/b1bcfb2b-bf2b-41e6-8de0-0ed58c63d1aa" />
+
 
 
 
