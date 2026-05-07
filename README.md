@@ -9,7 +9,9 @@ This project combines predictive analytics, AI-assisted workflows, and coordinat
 
 ## Live Demo
 
-https://huggingface.co/spaces/bobasami/superkart-frontend
+## Live Application
+
+[Launch SuperKart Forecasting Platform](https://huggingface.co/spaces/bobasami/superkart-frontend)
 
 ---
 
