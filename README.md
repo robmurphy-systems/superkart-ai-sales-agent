@@ -21,17 +21,12 @@ This project combines predictive analytics, AI-assisted workflows, and coordinat
 
 ###### with integrated Sales Strategy Agent - Using OpenAI 
 
+### AI Strategy Assistant Integration
+![AI Assistant](images/assistant-ui.png)
+
 <img width="532" height="197" alt="image" src="https://github.com/user-attachments/assets/47f1a946-54e9-4dd2-be64-c2fb9ccb319d" />
 
-
-
-
-
-
-
-
-
-
+The AI assistant layer was added to transform raw prediction outputs into actionable business guidance and operational decision support.
 
 Retail forecasting is a complex coordination problem involving:
 
